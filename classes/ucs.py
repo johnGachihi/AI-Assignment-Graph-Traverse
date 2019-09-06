@@ -43,6 +43,3 @@ class UCS:
         return False
 
 
-ucs = UCS()
-if ucs.isValuePresentInTupleList([(1,'a'), (2,'b'), (5,'d'), (4,'z')], 1, 'b'):
-    print(ucs.isValuePresentInTupleList([(1,'a'), (2,'b'), (5,'d'), (4,'z')], 1, 'b'))
