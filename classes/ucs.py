@@ -32,7 +32,7 @@ class UCS:
                     print('We peer at child node:', child[0], ' Weight:', child_weight)
                     heapq.heappush(frontier, (child_weight, child[0]))
                 elif child_in_frontier and child_in_frontier[Node.WEIGHT] > child_weight:
-                    child_in_frontier[Node.WEIGHT] = child_weight
+                    child_in_frontier[Node.WEIGHT] = child_weight #CRITICAL. Needs to be corrected.
 
 
     def isValuePresentInTupleList(self, tuple_list, tuple_index, value):
