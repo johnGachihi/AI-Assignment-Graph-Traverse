@@ -101,7 +101,7 @@ peru_colored_edges = list(zip(route_list, route_list[1:]))
 # plt.show()
 
 ucs = UCS()
-print(ucs.ucs(G, 'Karen', 'Gitaru'))
+print(ucs.ucs(G, 'Karen', 'ImaraDaima'))
 print(ucs.visited)
 
 node_colors = ['darkturquoise' if n not in ucs.visited else 'peru' for n in G.nodes()]
