@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9d4c146-6b77-4e30-9750-59efeae0605b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NNpython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NNpython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NairobiRoadNetwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/NairobiRoadNetwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/PathList.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/ucs.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/ucs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -179,7 +181,10 @@
       <workItem from="1567935212923" duration="12062000" />
       <workItem from="1567951941948" duration="1089000" />
       <workItem from="1567953795410" duration="4630000" />
-      <workItem from="1567962427765" duration="781000" />
+      <workItem from="1567962427765" duration="1474000" />
+      <workItem from="1568016466704" duration="4043000" />
+      <workItem from="1568106858154" duration="5412000" />
+      <workItem from="1568192135443" duration="933000" />
     </task>
     <servers />
   </component>
@@ -203,9 +208,9 @@
     <SUITE FILE_PATH="coverage/NNpython$PathList.coverage" NAME="PathList Coverage Results" MODIFIED="1567952117561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/NNpython$NairobiRoadNetwork.coverage" NAME="NairobiRoadNetwork Coverage Results" MODIFIED="1567953000513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NNpython$Node.coverage" NAME="Node Coverage Results" MODIFIED="1567714207656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
-    <SUITE FILE_PATH="coverage/AI_Task$NairobiRoadNetwork.coverage" NAME="NairobiRoadNetwork Coverage Results" MODIFIED="1567963189124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AI_Task$NairobiRoadNetwork.coverage" NAME="NairobiRoadNetwork Coverage Results" MODIFIED="1568192524645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NNpython$ucs.coverage" NAME="ucs Coverage Results" MODIFIED="1567938753215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
-    <SUITE FILE_PATH="coverage/AI_Task$ucs.coverage" NAME="ucs Coverage Results" MODIFIED="1567958929467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/AI_Task$ucs.coverage" NAME="ucs Coverage Results" MODIFIED="1568019509992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/NNpython$bfs.coverage" NAME="bfs Coverage Results" MODIFIED="1567715207582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
   </component>
 </project>

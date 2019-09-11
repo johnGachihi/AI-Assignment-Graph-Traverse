@@ -15,9 +15,9 @@ G.add_nodes_from(nodes)
 G.nodes()  # confirm nodes
 
 # Add Edges and their weights
-G.add_edge("Karen","J1",weight="2")
+G.add_edge("Karen","J1",weight="2.8")
 G.add_edge("Karen","J6",weight="4")
-G.add_edge("J1","J4",weight="2")
+G.add_edge("J1","J4",weight="2.6")
 G.add_edge("J6","Gitaru",weight="10")
 G.add_edge("J6","J7",weight="6")
 G.add_edge("J6","J4",weight="6")
